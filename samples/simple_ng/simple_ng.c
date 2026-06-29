@@ -12,7 +12,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define FIELD_BUS_CYCLE_NS 1000000
+#define FIELD_BUS_CYCLE_NS 2000000
 #define FIELD_BUS_CYCLE_US (FIELD_BUS_CYCLE_NS / 1000)
 #define FIELD_BUS_OP_TRIES 500
 
